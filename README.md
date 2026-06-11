@@ -2,6 +2,8 @@
 
 An intelligent Skills management system designed specifically for red team penetration testers. Manage AI Agent Skills across multiple platforms (Claude Code, OpenClaw, Hermes) with ease.
 
+English | [中文](./README_CN.md)
+
 ## ✨ Features
 
 | Feature | Description | Status |
